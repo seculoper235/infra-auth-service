@@ -1,6 +1,6 @@
-# Infra Post API Server
+# Infra Auth API Server
 
-Infra Development에 사용되는 유저 서비스 API 입니다
+Infra Development에 사용되는 인증 서비스 API 입니다
 
 ---
 ## 📝 개발 스펙
